@@ -1,0 +1,28 @@
+.Time{
+    background-color: rgba(0, 0, 0, 0.747);
+}
+th{
+    color: hsl(0, 0%, 100%);
+}
+.day{
+    background-color: rgb(179, 179, 179);
+    color: white;
+}
+.lec{
+    background-color: rgb(175, 194, 255);
+}
+.lab{
+    background-color: antiquewhite;
+}
+.select{
+    background-color: aquamarine;
+}
+.ta{
+    background-color: beige;
+}
+.null{
+    background-color: rgb(228, 228, 228);
+}
+*{
+    font-size: 20px;
+}
